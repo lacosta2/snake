@@ -1,2 +1,2 @@
-# resume
-Repository with projects to build my resume.
+# snake
+High school project in a Web Design class. Objective was to recreate a version of the HTML game "Snake".
